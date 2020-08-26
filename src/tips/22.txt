@@ -1,0 +1,1 @@
+Use VNC, microphone and webcam to perform surveillance. Netstat, tasklist can provide context into what the users doing.

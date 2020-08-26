@@ -1,0 +1,1 @@
+Use PowerPoint mouse over text to invoke a powershell command one liner. #adversarysimulation - https://www.dodgethissecurity.com/2017/06/02/new-powerpoint-mouseover-based-downloader-analysis-results/

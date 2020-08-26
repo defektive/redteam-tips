@@ -1,0 +1,1 @@
+Use SLK files instead of XLS for Excel DDE code exec without protected view issues. Discovered by @enigma0x3

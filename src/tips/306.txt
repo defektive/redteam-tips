@@ -1,0 +1,1 @@
+CACTUSTORCH weaponises James Forshaw’s Dotnet2js research. Allows shellcode execution in JS and HTA files as well as an alternate for Macros. This is being used in the wild and you should know about it! It’s proved useful in EDR cases too! https://github.com/mdsecactivebreach/CACTUSTORCH

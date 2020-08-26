@@ -1,0 +1,1 @@
+Got access but need to find target? Use WMIC to query and dump the DNS Zone for a better view of assets - https://serverfault.com/questions/550385/export-all-hosts-from-dns-manager-using-powershell

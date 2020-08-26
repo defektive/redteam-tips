@@ -1,0 +1,1 @@
+S4U can be used to delegate across SPN. So if you have msds-allowedtodelagateto HTTP you can exploit to obtain HOST and CIFS

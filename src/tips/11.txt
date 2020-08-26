@@ -1,0 +1,1 @@
+When navigating mature environments, a good old network diagram along with AD OUs can help to shed some light into next steps.

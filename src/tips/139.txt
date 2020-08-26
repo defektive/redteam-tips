@@ -1,0 +1,1 @@
+If enemy does not use proxy with TLS inspection then you can use https://www.mdsec.co.uk/2017/02/domain-fronting-via-cloudfront-alternate-domains/ to mask your c2 channel further

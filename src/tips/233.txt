@@ -1,0 +1,1 @@
+Low privilege prevent ATP sending logs? Modify registry and serve WPAD locally to not send data to Msft Domains. @retBandit

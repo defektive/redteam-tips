@@ -1,0 +1,1 @@
+Ran Invoke-MapDomainTrusts from PowerView? Use @harmj0y DomainTrustExplorer to generate a graph https://github.com/sixdub/DomainTrustExplorer

@@ -1,0 +1,1 @@
+@Akijos notes that we should be careful when using silver tickets with scheduled tasks. Author is the user account youre on.

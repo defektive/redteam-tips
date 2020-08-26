@@ -1,0 +1,1 @@
+WPA2 PSK can be cracked on Hashcat too, just in case you were not aware. All you do is make cap2hccapx https://github.com/hashcat/hashcat-utils … then convert the handshake CAP file to HCCAPX then crack it in Hashcat mode 2500 :)

@@ -1,0 +1,1 @@
+@Oddvarmoe suggests using Alternate Data Streams if you need to put a file on disk. For example https://github.com/samratashok/nishang/blob/master/Backdoors/Invoke-ADSBackdoor.ps1

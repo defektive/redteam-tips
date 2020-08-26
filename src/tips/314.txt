@@ -1,0 +1,1 @@
+Why are privileged / admin user code execution vulnerabilities a thing in web app reports? Because if you’re privileged and can execute code on a web app, you can use it to Pivot into segments, extract secrets from the box, intercept comms, and all that good stuff.

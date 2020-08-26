@@ -1,0 +1,1 @@
+Backup images on disk with world readable access rights. I see this ALL THE TIME. Check out https://rastamouse.me/2018/02/vhd-to-da/ by @_rastamouse teaching us how to read VHD without transferring 50 GB.

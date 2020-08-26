@@ -1,0 +1,1 @@
+@dafthack MailSniper, @domchell LyncSniper can be a useful but noisy way to obtain AD credentials into an organisation.

@@ -1,0 +1,1 @@
+Domain user? Query LDAP for Printers. Attempt default creds or known vulns then read Service account creds, hash or relay

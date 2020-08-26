@@ -1,0 +1,1 @@
+Check out goaccess -> apt-get install goaccess. Then goaccess -f /var/log/nginx/access.log Pretty cool! Now you can see who's hitting your redirector and what they're grabbing at all times in live view? Good for red team dash boards.

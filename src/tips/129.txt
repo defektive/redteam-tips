@@ -1,0 +1,1 @@
+Use PEAS to query shares and emails if using ActiveSync - https://github.com/mwrlabs/peas

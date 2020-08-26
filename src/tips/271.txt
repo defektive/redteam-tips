@@ -1,0 +1,1 @@
+Enumerate DevOps stack, WSUS, Endpoint security agents - use these to jump into segregated zones.

@@ -1,0 +1,1 @@
+Use wgsidav if you need a quick WebDav server :) https://github.com/mar10/wsgidav

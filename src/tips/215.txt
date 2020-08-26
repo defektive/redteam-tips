@@ -1,0 +1,1 @@
+@424f424f just made me aware that FireEye can prevent runas from executing. Use unmanaged PS to spawn https://github.com/rvrsh3ll/Misc-Powershell-Scripts/blob/master/RunAs.ps1

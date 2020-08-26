@@ -1,0 +1,1 @@
+Not using notifications yet for C2 events? For @armitagehacker's Cobalt Strike check out https://github.com/Und3rf10w/Aggressor-scripts

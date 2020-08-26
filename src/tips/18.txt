@@ -1,0 +1,1 @@
+When tools like MailSniper dont work in custom environments, you still have good old @Burp_Suite to replicate the attacks

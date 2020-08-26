@@ -1,0 +1,1 @@
+@zwned uses netsh packet tracing to sniff natively from victim host. Save capture and analyze offline!

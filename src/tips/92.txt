@@ -1,0 +1,1 @@
+If WDigest is disabled, reenable it for cleartext credentials before new users login with @harmj0y https://github.com/HarmJ0y/Misc-PowerShell/blob/master/Invoke-WdigestDowngrade.ps1

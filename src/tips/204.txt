@@ -1,0 +1,1 @@
+If proxy is blocking SCT file, replace <scriptlet> with <package> and add <component id="test"> around the rest. Thx @subTee

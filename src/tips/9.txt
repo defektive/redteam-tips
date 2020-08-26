@@ -1,0 +1,1 @@
+When PowerUp yields no results, dont forget SysInternalss AutoRuns. Often you can find unexpected surprises :)

@@ -1,0 +1,1 @@
+SessionGopher does a decent job at retrieving putty and RDP history - https://github.com/fireeye/SessionGopher

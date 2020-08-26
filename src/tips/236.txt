@@ -1,0 +1,1 @@
+Use WSUSPENDU to move laterally with fake updates even across airgapped environments.

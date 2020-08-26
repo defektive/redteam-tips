@@ -1,0 +1,1 @@
+Against Palo Alto? Default exemptions by @n00py1 https://pastebin.com/raw/Fa0nqg5g. Domain Fronting compatible list at https://github.com/vysec/DomainFrontingLists/blob/master/CloudFront-SSL-PA-Exempt.txt

@@ -1,0 +1,1 @@
+Need to sweep for uptimes? Use wmic /node:"<computer>" OS get LastBootUpTime in a for loop

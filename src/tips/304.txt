@@ -1,0 +1,1 @@
+If you’re using cloud infrastructure for listening posts / redirectors it’s worth checking the IP against known black lists. Just so that it doesn’t end up tainting the reputation of associated domains!

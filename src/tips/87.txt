@@ -1,0 +1,1 @@
+@Oddvarmoe uses .UDL files to quickly launch a MSSQL connection test to validate credentials! https://blogs.msdn.microsoft.com/farukcelik/2007/12/31/basics-first-udl-test/

@@ -1,0 +1,1 @@
+Got administrative rights across the domain but can’t hit certain network segments? Be sure to check out web apps, many places and web apps support “script execution” for administrators. Get a shell and try to hit the target segment from the web app.

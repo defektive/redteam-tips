@@ -1,0 +1,1 @@
+OSINTing? TheHarvester does a decent job at subdomains. Though theres better ways to get emails bulk. https://github.com/laramies/theHarvester

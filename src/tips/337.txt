@@ -1,0 +1,1 @@
+Need to Spray Office365? Use https://bitbucket.org/grimhacker/office365userenum. Tried and tested this tool and works really fast and well in Python. Just do --threads 3000 and --password Welcome1. As all operators know, you don't have time to be testing tools in the middle of a gig. :)

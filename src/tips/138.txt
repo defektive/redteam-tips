@@ -1,0 +1,1 @@
+If you need to get a clean EXE for file drop and exec, try out @midnite_runr Backdoor Factory - https://github.com/secretsquirrel/the-backdoor-factory

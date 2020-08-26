@@ -1,0 +1,1 @@
+On a Linux box and want to egress from it over a proxy? Use ProxyTunnel to pipe SSH - https://github.com/proxytunnel/proxytunnel

@@ -1,0 +1,1 @@
+Windows Credential Vault is often used to store saved passwords. @_rastamouse walks us through the decryption procedures required to make use of these credentials in his blog post at https://rastamouse.me/2017/08/jumping-network-segregation-with-rdp/

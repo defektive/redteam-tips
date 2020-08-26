@@ -1,0 +1,1 @@
+@domchell recommends avoiding non persistent VDIs and persist on laptops. Query DC for live laptops.

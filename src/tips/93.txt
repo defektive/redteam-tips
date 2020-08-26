@@ -1,0 +1,1 @@
+Use Empyre to generate Macintosh and Linux payloads, modify it to contain code for Windows too! https://github.com/EmpireProject/EmPyre

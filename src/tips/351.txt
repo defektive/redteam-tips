@@ -1,0 +1,1 @@
+If you're running C2 Infrastructure, at least age the domain, build reputation, and SERVE SOME CONTENT on the web root. Oh yeah, don't forget to use VALID CERTIFICATES also.

@@ -1,0 +1,1 @@
+Look for asset registers to understand who owns what machine, make and model. Theres usually an asset label to host name too!

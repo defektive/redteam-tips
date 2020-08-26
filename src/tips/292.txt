@@ -1,0 +1,1 @@
+Although I thought it was clear as Microsoft documented it but LAPS passwords are in clear text to users that have the right privileges in AD. Friendly reminder :) Either just browse LDAP or https://www.harmj0y.net/blog/powershell/running-laps-with-powerview/ … or https://blog.netspi.com/running-laps-around-cleartext-passwords/ … @harmj0y @kfosaaen

@@ -1,0 +1,1 @@
+Found open user home shares that are accessible? See if you can drop into Startup Programs for lateral movement and privesc.

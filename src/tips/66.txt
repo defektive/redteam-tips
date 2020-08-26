@@ -1,0 +1,1 @@
+Found potential MQ creds? ActiveMQ? Try out https://github.com/fmtn/a , works to query MQ endpoints that dont use self signed crt

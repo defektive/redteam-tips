@@ -1,0 +1,1 @@
+Got OS level access to a middle tier? Task list, netstat and wmic process list full | findstr /I commandline for more ideas!

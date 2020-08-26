@@ -1,0 +1,1 @@
+@subTee highlighted to us that XML requests can be used as a download cradle in constrained language mode!

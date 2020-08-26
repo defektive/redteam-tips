@@ -1,0 +1,1 @@
+When domain fronting, your calls hit the edge node, so every domain you use potentially hits a different a IP! ?

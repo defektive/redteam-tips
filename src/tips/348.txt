@@ -1,0 +1,1 @@
+Effective TTPs can differ depending on industry or organization size. An example may be that SMEs may be more likely vulnerable to a credential stuffing attack compared to a global financial organization because less policies around password rotation and expiry.

@@ -1,0 +1,1 @@
+Automatically switch to the most profitable coin to mine using @rvrsh3lls crypto currency mining assistance PowerShell scripts! https://github.com/rvrsh3ll/CrypoCurrencyPowerShell/blob/master/Mine-BestCoin.ps1

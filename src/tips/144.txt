@@ -1,0 +1,1 @@
+Need to reset a password? Do it then quickly dcsync for previous password hash and use NTLMinject - https://github.com/vletoux/NTLMInjector

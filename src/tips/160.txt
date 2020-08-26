@@ -1,0 +1,1 @@
+Cant crack a password? Try the users previous passwords from history in AD. They may follow a pattern.

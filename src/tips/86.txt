@@ -1,0 +1,1 @@
+Red team and attack simulation is not penetration testing. You shouldnt be really testing anything, but simply infiltrating.

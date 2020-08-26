@@ -1,0 +1,1 @@
+Domain Fronting Domain lists for popular CDNs can be found at: https://github.com/vysec/DomainFrontingLists … good for defenders too!

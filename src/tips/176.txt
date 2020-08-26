@@ -1,0 +1,1 @@
+If blue detects PTH. Try extract Kerberos tickets and PTT.

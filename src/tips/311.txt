@@ -1,0 +1,1 @@
+MSSQL: Domain user -> public role -> UNC leak -> relay or crack using eg. Inveigh -> suddenly born as a new man! https://github.com/NetSPI/PowerUpSQL other cool bits in here worth noting. I do OS admin to SYSADMIN a lot! https://github.com/NetSPI/PowerUpSQL

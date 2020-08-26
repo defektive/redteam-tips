@@ -1,0 +1,1 @@
+If you get errors RDPing to a Windows 10 box from Mac OSX or Windows 7, try a Windows 10 box :). Same vice versa with Windows 10 box RDPing to Windows 7 boxes you might have issues, so try using a Windows 7 box. Recent CREDSSP security patch screws it.

@@ -1,0 +1,1 @@
+Instead of using rundll32, try control @domchell and winword /L @subTee ? change indicators!

@@ -1,0 +1,1 @@
+Got C2 on Windows user but no credentials? Leak a hash using @leftp's code. Implemented into CNA https://github.com/vysec/Aggressor-VYSEC/blob/master/Invoke-CredLeak.ps1

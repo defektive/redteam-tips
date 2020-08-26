@@ -1,0 +1,1 @@
+Not sure what countries your target operates in? Find out where all their servers are at least! Automate all the IP -> lat long and then use a Mapping framework to visualize. Works great.

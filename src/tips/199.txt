@@ -1,0 +1,1 @@
+@_wald0 blessed us with this BH cypher query to skip specific nodes to look for other paths. https://pastebin.com/qAzH9uji

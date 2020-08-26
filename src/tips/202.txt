@@ -1,0 +1,1 @@
+If using @Cneelis StarFighter. Instead of using a staged web delivery, just stick while stageless payload as encoded block in!

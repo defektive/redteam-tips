@@ -1,0 +1,1 @@
+Is EDR potentially looking for powershell -encodedcommand? Try powershell -ec

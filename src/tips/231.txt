@@ -1,0 +1,1 @@
+@ropnop wrote https://gist.github.com/ropnop/8711392d5e1d9a0ba533705f7f4f455f … to perform Kerberos TGT password bruteforce. Potentially stealthier than traditional SMB

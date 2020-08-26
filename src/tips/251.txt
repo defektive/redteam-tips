@@ -1,0 +1,1 @@
+Exploits such as MS17-010 can be routed internally for privilege escalation using portforwards. Lowers risk of IDS detections.

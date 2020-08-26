@@ -1,0 +1,1 @@
+Use recent critical vulnerabilities such as CVE-2017-0199 HTA handler issue to simulate real threats. https://www.mdsec.co.uk/2017/04/exploiting-cve-2017-0199-hta-handler-vulnerability/

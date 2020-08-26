@@ -1,0 +1,1 @@
+Weak DMARC on victim org domain? Spoof their own emails back into themselves! You even inherit their AD name and photo

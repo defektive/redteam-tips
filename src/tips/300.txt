@@ -1,0 +1,1 @@
+@und3rf10w found that if you kill the threads in Windows Defender it won’t detect anything whilst the process still runs. He also did bits of testing against Carbon Black. Good read! Extension of Phant0m http://www.insomniacsecurity.com/2017/08/27/phant0m.html

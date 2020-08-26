@@ -1,0 +1,1 @@
+Found a process of interest? Dont forget to obtain a MiniDump! Use Out-MiniDump https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Out-Minidump.ps1

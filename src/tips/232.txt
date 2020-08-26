@@ -1,0 +1,1 @@
+Admin to machine X? X has SPN set to delegate access? Bam! Hit machine X, you don’t need to crack no machine hash.

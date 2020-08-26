@@ -1,0 +1,1 @@
+Need a DC? echo %LOGONSERVER%. Need a list? nltest /dclist, nslookup -q=srv _kerberos._tcp (domain suffix can autocomplete)

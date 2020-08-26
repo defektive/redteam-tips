@@ -1,0 +1,1 @@
+Ton of injection techniques implemented here for reference. https://github.com/rootm0s/Injectors … Although mainly in cpp :)

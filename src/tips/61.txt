@@ -1,0 +1,1 @@
+Get a quick patch list using wmic qfe list brief. Cross ref KB to bulletins.

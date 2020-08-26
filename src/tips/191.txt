@@ -1,0 +1,1 @@
+Get-WmiObject -Class MicrosoftDNS_AType -NameSpace RootMicrosoftDNS -ComputerName DC001 | Export-CSV -not dns.csv

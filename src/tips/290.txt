@@ -1,0 +1,1 @@
+GPO Misconfigurations are more common than you might think! Not talking about good old cpassword but also file permissions and editable scripts. Check out https://github.com/l0ss/Grouper by @mikeloss that automates this!

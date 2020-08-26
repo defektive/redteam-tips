@@ -1,0 +1,1 @@
+Stash payloads in C:$Recycle.Bin

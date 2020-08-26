@@ -1,0 +1,1 @@
+GoPhish is a pretty useful tool for spinning up simple phishing campaigns especially for decoys https://getgophish.com

@@ -1,0 +1,1 @@
+Sandbox Analysis taking place? @arvanaghi has a centralised repo of anti sandbox techniques https://github.com/Arvanaghi/CheckPlease

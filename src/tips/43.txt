@@ -1,0 +1,1 @@
+So you know where the server application files are. Download the binaries and check out configuration files for conn. strings

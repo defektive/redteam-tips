@@ -1,0 +1,1 @@
+Having trouble getting @armitagehacker CobaltStrikes evil.hta through defenses? https://github.com/vysec/MorphHTA

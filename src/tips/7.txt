@@ -1,0 +1,1 @@
+Whether PSEXEC, WMI, PS remoting or even the recent COM execution technique for lateral movement. Dont forget beloved RDP.

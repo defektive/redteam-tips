@@ -1,0 +1,1 @@
+Look for open S3 buckets using https://github.com/sa7mon/S3Scanner I found 1400 buckets in about 1 hour. Good practice to make sure your client isn’t vulnerable to such attacks and if In red team you might be able to use it to serve payload stages or create waterhole attacks. In total I found over 6000.

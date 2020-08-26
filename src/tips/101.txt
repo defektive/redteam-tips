@@ -1,0 +1,1 @@
+Set up red team infrastructure following @bluscreenofjeff guidelines! https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki

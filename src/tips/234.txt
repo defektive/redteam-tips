@@ -1,0 +1,1 @@
+CACTUSTORCH introduces a new set of TTP in Payload Generation. https://github.com/mdsecactivebreach/CACTUSTORCH … Reduces signature footprints too!

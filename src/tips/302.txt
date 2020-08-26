@@ -1,0 +1,1 @@
+3snake lets you dump sshd and sudo related strings to obtain further credentials on rooted servers. https://github.com/blendin/3snake

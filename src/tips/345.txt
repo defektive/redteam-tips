@@ -1,0 +1,1 @@
+Technical teams often pride themselves on technical capabilities and complexity. In real operations, less is more. The more simple and effective a solution or campaign is, the better. You most probably don’t need that mega complex payload or exploit path.

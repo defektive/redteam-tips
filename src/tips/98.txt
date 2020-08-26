@@ -1,0 +1,1 @@
+@0x09AL suggests WordSteal. You can embed an IMAGE with UNC path to steal hashes from Word. Wont work if proxy. https://github.com/0x09AL/WordSteal

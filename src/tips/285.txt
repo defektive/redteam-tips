@@ -1,0 +1,1 @@
+Use Exchange timing attacks to narrow down a predicted list of emails down to an accurate list. Better than checking for bounces. @dafthack https://github.com/dafthack/MailSniper … implements this attack.

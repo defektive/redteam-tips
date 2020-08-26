@@ -1,0 +1,1 @@
+consider using Office Template macros and replacing normal.dot for persistence in VDI environments.

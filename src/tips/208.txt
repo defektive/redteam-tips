@@ -1,0 +1,1 @@
+Automate environment prepping and spawn all processes as a child of explorer.exe by @armitagehacker https://github.com/vysec/Aggressor-VYSEC/blob/master/auto-prepenv.cna

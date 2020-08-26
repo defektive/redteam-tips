@@ -1,0 +1,1 @@
+Need fast and accurate execution of BloodHound attack paths? try out https://github.com/vysec/ANGRYPUPPY … by @vysecurity and @001SPARTaN

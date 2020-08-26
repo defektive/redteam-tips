@@ -1,0 +1,1 @@
+PowerUp didnt work and you want to autoruns? Dont bother going on disk, use Invoke-AutoRuns to csv- https://github.com/p0w3rsh3ll/AutoRuns

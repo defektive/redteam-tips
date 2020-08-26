@@ -1,0 +1,1 @@
+View @jpcert https://www.jpcert.or.jp/english/pub/sr/20170612ac-ir_research_en.pdf … and look at all those indicators and artefacts left behind. Then hexedit those tools ?

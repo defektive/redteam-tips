@@ -1,0 +1,1 @@
+Most Windows deployment tutorials recommend hard-coding server or domain (admin) credentials in the PXE boot environment. Find the WDS server, send it a DHCP broadcast, and download the TFTP capsule. From @swiftonsecurity

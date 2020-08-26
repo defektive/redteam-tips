@@ -1,0 +1,1 @@
+On a VDI? Check out C: and other disks for potentially sensitive files other users may have saved there.

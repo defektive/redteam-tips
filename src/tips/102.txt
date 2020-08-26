@@ -1,0 +1,1 @@
+for opsec and not hosting C2 on the cloud

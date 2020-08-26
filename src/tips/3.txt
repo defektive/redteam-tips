@@ -1,0 +1,1 @@
+Taking a snapshot of AD can let you browse, explore and formulate future attacks if access is lost momentarily.

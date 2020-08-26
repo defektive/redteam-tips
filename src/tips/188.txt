@@ -1,0 +1,1 @@
+@pwnagelabs teaches us how to avoid wtmp logging with: ssh -l user target -T

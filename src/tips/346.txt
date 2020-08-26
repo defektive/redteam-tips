@@ -1,0 +1,1 @@
+Have a low privileged Office365 account? Pivot over to portal.azure.com after logging in and you can access the Azure AD. If they're syncing AD you suddenly get to view all the groups. Also check out Azure CLI. From @ustayready's @WWHackinFest talk!

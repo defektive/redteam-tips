@@ -1,0 +1,1 @@
+If you're new to Red Team, or are performing a complex series of campaigns and attacks then I recommend using a WHITEBOARD. Yes, a whiteboard. It helps to draft out attacks, list out infrastructure, lets you visualize your campaign chain.

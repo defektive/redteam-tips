@@ -1,0 +1,1 @@
+Got access to Microsoft OWA mailbox or O365? You can extract global catalog from contacts use @Burp_Suite and parse JSON object

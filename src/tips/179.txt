@@ -1,0 +1,1 @@
+Regardless of whether there are known defences. Run your PS scripts through Obfuscation before loading into memory.

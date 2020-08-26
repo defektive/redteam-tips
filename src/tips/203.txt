@@ -1,0 +1,1 @@
+Printers are often good MAC addresses to use to beat NAC when physical red teaming as printers (mostly?) don’t support 802.1x

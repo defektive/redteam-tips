@@ -1,0 +1,1 @@
+@Nebulator spoke on IP regex by IR at #SnoopCon. Here's CobaltStrike @armitagehacker CNA to automate https://github.com/vysec/Aggressor-VYSEC/blob/master/ping.cna

@@ -1,0 +1,1 @@
+Incase EDR are looking for net users /domain try using net use /dom

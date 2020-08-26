@@ -1,0 +1,1 @@
+@lefterispan wrote https://gist.github.com/leftp/a3330f13ac55f584239baa68a3bb88f2 … which sets up a proxy and forces an auth attempt to it to leak hash. Low priv leak.

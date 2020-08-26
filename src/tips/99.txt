@@ -1,0 +1,1 @@
+If client is using Proxy with WebDav you can phish creds using @ryHanson Phishery https://github.com/ryhanson/phishery

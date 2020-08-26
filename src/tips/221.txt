@@ -1,0 +1,1 @@
+If you want to simulate MBR activity like #Petya, check out https://github.com/PowerShellMafia/PowerSploit/blob/master/Mayhem/Mayhem.psm1

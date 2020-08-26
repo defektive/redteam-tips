@@ -1,0 +1,1 @@
+Look for pentest and Security reports. Inboxes, file shares, intranets. Replicate vulnerabilities that other people find and report but haven’t been fixed. I’ve done this so many times because client decrypts a report and archives it in clear text.

@@ -1,0 +1,1 @@
+Running a long gig? Use CloudFlare certificate that lasts 15 years instead of LetsEncrypt. LetsEncrypt lasts like 3 months and requires renewal. If you're domain fronting you don't want to be changing and updating certs to prevent 502 errors.

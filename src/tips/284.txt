@@ -1,0 +1,1 @@
+Password cracking is hard. I love Top297Million-Probable, rockyou was decent for a quick smash, but lately found out about Keyboard Walks. Add keyboard walks with rules into your cracking routines to get more hashes cracked! https://github.com/hashcat/kwprocessor … Share your ideas!

@@ -1,0 +1,1 @@
+SMB leaking fails if proper network segregation. Thank humans for laptops, work from home, cafes and free wifi! @haifeili

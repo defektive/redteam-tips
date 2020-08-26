@@ -1,0 +1,1 @@
+Found super secret.doc or master password database.xlsx? Use office2john to get hash and crack in Hashcat!

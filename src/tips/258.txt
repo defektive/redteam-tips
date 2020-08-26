@@ -1,0 +1,1 @@
+Obfuscate your macro documents with @MrUn1k0d3r‘s https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator

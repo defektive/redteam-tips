@@ -1,0 +1,1 @@
+Using SelectMyParent stops those detections eg. powershell.exe spawning cmd.exe. @armitagehackers CobaltStrike has ppid cmd!

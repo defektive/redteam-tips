@@ -1,0 +1,1 @@
+Easy way to get Microsoft tenant ID: https://login.windows.net/companyname.onmicrosoft.com/.well-known/openid-configuration. Not sure why when I Google Tenant ID, people censor it out when it's publicly accessible without any authentication. Bunch of interesting output from the request anyhow.

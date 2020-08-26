@@ -1,0 +1,1 @@
+Need user IPs without noisy hunting scripts? Pull homeDirs from AD, pwn share, extract host from %USERPROFILE%LinksDesktop.lnk

@@ -1,0 +1,1 @@
+Set HKLMSystemCurrentControlSetControlTerminalServer /v fSingleSessionPerUser /d 0, to allow multiple sessions on a server per user. This is useful if you want to login to the jump-host, but that guy's just on all-day-long... 😶

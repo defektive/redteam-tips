@@ -1,0 +1,1 @@
+Red Tip - sign up for @VirusTotal intelligence (easy if your company has others using it) - create YARA rules for your domains/tools/handle

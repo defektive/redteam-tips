@@ -1,0 +1,1 @@
+Use WMI or WinAPI calls to perform host recon when up against ATP.

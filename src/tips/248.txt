@@ -1,0 +1,1 @@
+Finding zero day DLL hijacks with Rattler can be useful for stealthier long term persistence.

@@ -1,0 +1,1 @@
+RDP in use? Dont want to use VNC? Try mimikatzs ts::multirdp in memory patch by @gentilkiwi

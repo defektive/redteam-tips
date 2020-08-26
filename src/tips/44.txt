@@ -1,0 +1,1 @@
+Run PEiD and other packer / technology checkers to find out the language and packer used on downloaded server binaries.

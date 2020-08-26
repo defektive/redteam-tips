@@ -1,0 +1,1 @@
+Got a low priv shell and need creds? Use Invoke-LoginPrompt by @enigma0x3 https://raw.githubusercontent.com/enigma0x3/Invoke-LoginPrompt/master/Invoke-LoginPrompt.ps1

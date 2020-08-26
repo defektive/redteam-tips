@@ -1,0 +1,1 @@
+Use machine account hashes to generate silver tickets to a host for persistence. Save machine hash for DC incase krbtgt rotate

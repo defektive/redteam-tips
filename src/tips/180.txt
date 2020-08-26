@@ -1,0 +1,1 @@
+Stuck trying to find those assets still? Try @424f424f Get-BrowserData https://github.com/rvrsh3ll/Misc-Powershell-Scripts/blob/master/Get-BrowserData.ps1

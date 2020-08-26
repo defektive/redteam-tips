@@ -1,0 +1,1 @@
+Hashcat doesn't run through special characters if you use -a 3 for passwords of length < 6. Use -a 3 -1 ?u?l?s ?1?1?1?1?1 instead.

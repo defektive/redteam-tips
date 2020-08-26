@@ -1,0 +1,1 @@
+List RDP connections history with @3gstudent https://github.com/3gstudent/List-RDP-Connections-History … Useless in times where you don’t have a GUI. I’d combine it with cmdkey to see what’s in vault to figure out where the user may have access :) #redteam #pentest #security

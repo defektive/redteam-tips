@@ -1,0 +1,1 @@
+Want to scrape MetaData in CLI? Use PowerMeta. Linux users can use PowerShell too! https://github.com/dafthack/PowerMeta

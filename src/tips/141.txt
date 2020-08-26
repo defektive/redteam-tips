@@ -1,0 +1,1 @@
+Need some OSINT? Keep Spiderfoot running long term to accompany your manual OSINT sources http://www.spiderfoot.net

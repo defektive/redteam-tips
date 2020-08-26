@@ -1,0 +1,1 @@
+Kerberoast them hashes, could be a fast route to domain administrator. PowerView: Invoke-Kerberoast -Format Hashcat

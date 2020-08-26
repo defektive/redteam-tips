@@ -1,0 +1,1 @@
+Don’t use WMI to query Win32_Product. Makes an event log entry for tons of MSIinstaller source. Holy crap, this is going on my black list.

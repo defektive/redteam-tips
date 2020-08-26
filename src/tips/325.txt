@@ -1,0 +1,1 @@
+Not enough space for a full payload and want to avoid staging in an LNK format? Try @felixw3000 guide on embedding larger payloads into self extracting LNK files. https://uperesia.com/booby-trapped-shortcut …

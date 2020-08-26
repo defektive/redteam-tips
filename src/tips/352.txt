@@ -1,0 +1,1 @@
+When working with Google Drive documents, if it asks you to request permission, you can try. However, you can also try sticking /pubhtml at the end to see if they've published a copy that you can view.

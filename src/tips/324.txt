@@ -1,0 +1,1 @@
+If you HAVE to spray for creds, use Kerberos spraying as pointed out by @ropnop that the level of auditing is far less by default and does not log invalid attempts. https://github.com/ropnop/kerberos_windows_scripts

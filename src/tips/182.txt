@@ -1,0 +1,1 @@
+@MrUn1k0d3r released https://github.com/Mr-Un1k0d3r/SCT-obfuscator … can probably bypass Gateway signatures when performing SCT delivery for regsvr32! https://github.com/Mr-Un1k0d3r/SCT-obfuscator

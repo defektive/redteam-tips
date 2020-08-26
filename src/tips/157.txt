@@ -1,0 +1,1 @@
+Scan a DNS server for Alexa top 1 million spoofable domains :) Ive got a massive list, do you?

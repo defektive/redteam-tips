@@ -1,0 +1,1 @@
+Cant crack a hash owned by a user? Take all previously discovered passwords from their files and generate a new word list.

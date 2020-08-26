@@ -1,0 +1,1 @@
+Victims use wireless? Use KARMA attack to force them onto your network. Use eternalblue, domain creds or other vulns to get in. https://github.com/sensepost/mana

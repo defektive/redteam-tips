@@ -1,0 +1,1 @@
+Exploring and want to use WMI? https://www.microsoft.com/en-us/download/details.aspx?id=8572 is pretty useful for exploring the different namespaces and classes.

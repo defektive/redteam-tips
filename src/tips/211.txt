@@ -1,0 +1,1 @@
+Reset AD passwords from Linux with @mubix https://room362.com/post/2017/reset-ad-user-password-with-linux/ :) proxychains it over your pivot :D

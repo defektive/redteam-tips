@@ -1,0 +1,1 @@
+@bluscreenofjeff shows us how to use Apache Mod rewrite to randomly serve different payloads https://bluescreenofjeff.com/2017-06-13-serving-random-payloads-with-apache-mod_rewrite/

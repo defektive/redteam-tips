@@ -1,0 +1,1 @@
+Checking whether a server or host is good for egress? Likely to go down? systeminfo | findstr /i boot

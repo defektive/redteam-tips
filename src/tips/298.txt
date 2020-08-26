@@ -1,0 +1,1 @@
+@3gstudent has enlightened us with a way to fully list all installed applications. https://github.com/3gstudent/3gstudent.github.io/blob/master/_posts/---2018-1-28-渗透基础——获得当前系统已安装的程序列表.md Some applications could not be enumerated using WMI

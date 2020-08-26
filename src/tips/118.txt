@@ -1,0 +1,1 @@
+FOCA finds some useful information for OSINT and intelligence phases. https://www.elevenpaths.com/labstools/foca/index.html

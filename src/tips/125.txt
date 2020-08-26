@@ -1,0 +1,1 @@
+Got krbtgt of a child domain? Forest parent trusts you? Use the SID history attack in golden tickets to escalate to Ent Admin

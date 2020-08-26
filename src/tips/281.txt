@@ -1,0 +1,1 @@
+red team tips! If you’re not writing your own tools per operation you probably aren’t red teaming correctly. Devops all the processes, discover newly exploitable OSINT sources, fingerprint at mass. Learn to script quickly! And.... happy holidays everyone!

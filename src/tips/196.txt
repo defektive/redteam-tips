@@ -1,0 +1,1 @@
+If ACL doesn’t let you read other users’ home shares, you can try net view ileserv /all to try other shares and folders!

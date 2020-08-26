@@ -1,0 +1,1 @@
+SMB hash leaking using a UNC path for image in page for drive by leak can give you credentials for less mature environments.

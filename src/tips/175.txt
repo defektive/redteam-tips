@@ -1,0 +1,1 @@
+Get access to shadow admin accounts, they can DCsync and are essentially DA. https://www.cyberark.com/threat-research-blog/shadow-admins-stealthy-accounts-fear/

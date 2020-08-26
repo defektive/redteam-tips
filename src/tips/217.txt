@@ -1,0 +1,1 @@
+You’re in a subnet where people RDP into but you can’t attack outwards? Set backdoor over tsclient on start keys. ?

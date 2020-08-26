@@ -1,0 +1,1 @@
+Red Tip but knowing whether and how the blue team or target might fix an issue definitely helps when trying to discover if they’re vulnerable as well as the reporting phase.

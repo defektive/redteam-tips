@@ -1,0 +1,1 @@
+In my opinion: get to the goal without having to privesc and move laterally or compromise unnecessary assets or cause collateral damage and noise.

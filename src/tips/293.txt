@@ -1,0 +1,1 @@
+Linked to #280, @harmj0y has useful references, information and explanations for discovering GPO permissions. https://www.harmj0y.net/blog/redteaming/abusing-gpo-permissions/ I just used Get-ACL on SYSVOL. Works for me.

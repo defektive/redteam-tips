@@ -1,0 +1,1 @@
+@benichmt1 suggests looking for vmdk files across the network. You can use this to potentially access segregated networks

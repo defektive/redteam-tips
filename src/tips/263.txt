@@ -1,0 +1,1 @@
+Red Tip: Use @armitagehacker's CobaltStrike? I'd be careful with NOD32 as it seems to be detecting ElevateKit's use of Powerpick & UacBypass

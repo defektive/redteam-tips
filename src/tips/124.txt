@@ -1,0 +1,1 @@
+Remember you can generate a golden ticket offline with knowledge of krbtgt and rest offline. Golden ticket gets silver from DC

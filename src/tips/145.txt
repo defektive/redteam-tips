@@ -1,0 +1,1 @@
+IDS flagging known payload binary blob? Base64 encode it in your payload and use certutil, PS or VB to decode it!

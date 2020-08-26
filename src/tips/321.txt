@@ -1,0 +1,1 @@
+Sandboxes run Macros without prompting right? What if you wrote your Macro to check that it’s set to run without prompting and don’t run? :) only run if it’s on enable content setting... which is more likely to be observed in a real environment.

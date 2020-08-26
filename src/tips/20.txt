@@ -1,0 +1,1 @@
+So apparently not many people use SSH for redirector setup. So try out ssh c2 -R *:80:localhost:80. SSH config GatewayPorts yes

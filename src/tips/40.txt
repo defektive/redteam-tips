@@ -1,0 +1,1 @@
+@0x09AL suggests looking for default credentials on printers and embedded devices. Move off initial foothold using this.

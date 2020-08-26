@@ -1,0 +1,1 @@
+scans.io has some pretty good databases for a list of subdomains potentially for your target. Use the SQL AXFR one!

@@ -1,0 +1,1 @@
+Im sure everyone hates Oracle DB but no sweat, you can proxycap sqldeveloper.exe

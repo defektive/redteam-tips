@@ -1,0 +1,1 @@
+DA -> Locate DB -> Found MSSQL? https://github.com/NetSPI/PowerUpSQL use PowerUpSQL to enumerate and privesc by stealing tokens.

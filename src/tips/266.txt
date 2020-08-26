@@ -1,0 +1,1 @@
+Use Cloud Hosts / CDNs for redirectors. Unless the cloud provider sells you out, they have no way to find out where the c2 is.

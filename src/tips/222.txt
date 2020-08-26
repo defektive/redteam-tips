@@ -1,0 +1,1 @@
+Secure your beach heads against #Petya WMIC /node:host process call create “echo > C:windowsperfc”

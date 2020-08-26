@@ -1,0 +1,1 @@
+List mounts: net use, look for shared folders and drop a UNC icon LNK into it. Run Inveigh or Wireshark on host to grab hashes.

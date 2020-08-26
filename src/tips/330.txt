@@ -1,0 +1,1 @@
+Want to find out if the current network has an external exposed interface? Eg. Wireless networks? An easy way is to visit https://ifconfig.co/port/80 on port 22,80,443 for a quick idea. You might find that your current network has another way in!

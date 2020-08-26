@@ -1,0 +1,1 @@
+If you don’t know how LM and NTLM hashing works... go back to basics with https://blog.smallsec.ca/2016/11/07/windows-credentials/

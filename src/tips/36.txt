@@ -1,0 +1,1 @@
+Dont forget the good old GPP passwords in SYSVOL. There may be cached GPP on the machine. Applying the patch isnt enough

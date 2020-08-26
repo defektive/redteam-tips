@@ -1,0 +1,1 @@
+Client uses VDIs? Compromise underlying host and use Citrix Shadow Taskbar to spy on VDI sessions by selecting username

@@ -1,0 +1,1 @@
+Use copy with the /z flag to make resumable file transfers on Windows. @guyrleech

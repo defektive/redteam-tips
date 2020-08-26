@@ -1,0 +1,1 @@
+Logging the date and time is really important. Go to http://bashrcgenerator.com and generate a fancy looking, and useful time on your terminal for bash. I combine this with script ~/OPNAME_DATE.txt.

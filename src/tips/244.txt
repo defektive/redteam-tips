@@ -1,0 +1,1 @@
+Limiting allowed inbound IP ranges using iptables will restrict the ability for external IR teams to fetch payloads or stage

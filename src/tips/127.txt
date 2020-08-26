@@ -1,0 +1,1 @@
+Planning to use secretsdump.py? :) Try using the DC machine account to authenticate and dump instead of a user! Save hash

@@ -1,0 +1,1 @@
+@424f424f pushed some research into LNK files inside CAB can be used to bypass the Attachment Manager ?http://www.rvrsh3ll.net/blog/informational/bypassing-windows-attachment-manager/

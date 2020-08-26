@@ -1,0 +1,1 @@
+Is WebDav allowed through the gateway? Using http mini redirector? Dont exfiltrate or send in files. WebDav is subject to DLP

@@ -1,0 +1,1 @@
+If DMARC policy is set to the root domain, but not sub domains, check if subdomain policy is applied. If not, spoof from arbitrary subdomains instead :)

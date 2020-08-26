@@ -1,0 +1,1 @@
+Using net users isn’t the only way to get users from AD. You don’t always need to do it from the endpoint. If EDR is an issue connect to web apps and use intranet, mail, dev stack and other tools to obtain user lists and groups.

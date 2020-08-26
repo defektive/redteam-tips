@@ -1,0 +1,1 @@
+regsvr32 SCT files are being detected as Squigglydoo. Looks for script case sensitive and <registration case insensitive.

@@ -1,0 +1,1 @@
+@_staaldraad Ruler tool can be used to obtain code execution on a system running Outlook if you can access exchange externally

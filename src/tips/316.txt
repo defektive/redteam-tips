@@ -1,0 +1,1 @@
+Stuck against some EDR, or just want to add some complexity to your payload to better train the blue team? Check out SharpShooter by @domchell, a payload generation framework. https://www.mdsec.co.uk/2018/03/payload-generation-using-sharpshooter/

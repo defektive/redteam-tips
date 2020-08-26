@@ -1,0 +1,1 @@
+Got a NetNTLMv1 hash? Convert it to NTLM by cracking three DES keys: https://hashcat.net/forum/thread-5912.html

@@ -1,0 +1,1 @@
+Combine DomLink https://vincentyiu.co.uk/domlink-automating-domain-discovery/ … with zgrep -f doms-filter.txt scans.gz | awk -F"name":" '{print $2}' | awk -F"","type '{print $1}' | tee -a doms-subs.txt to get a nice list of subdomains for every DomLink recovered associated domain? :)

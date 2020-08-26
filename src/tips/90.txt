@@ -1,0 +1,1 @@
+Cisco NGIPS is shit, when analysing traffic for havex it drops only <havexhavex> but not <havexDATABLOBhavex>

@@ -1,0 +1,1 @@
+You dont necessarily need Domain Admin, if you have an account that has Replicating directory changes rights, dcsync to pull hash using that account.

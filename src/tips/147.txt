@@ -1,0 +1,1 @@
+If youre sending into Exchange, make sure your SMTP server is not in SPAM list or black lists. Check junk mails mail headers

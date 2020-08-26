@@ -1,0 +1,1 @@
+Tracked down that putty session? Popped the box? Query user and check the victims logon time and idle times

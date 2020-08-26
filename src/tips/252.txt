@@ -1,0 +1,1 @@
+ATA detects where tools such as UserHunter or BloodHound query AD. Instead, blacklist DCs. Use file shares / high pop servers.

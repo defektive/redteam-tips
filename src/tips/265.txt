@@ -1,0 +1,1 @@
+Use rundll32.exe a lot? Try copy it to another directory to appear as diff name. http://www.hexacorn.com/blog/2017/05/01/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline/

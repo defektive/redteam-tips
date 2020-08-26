@@ -1,0 +1,1 @@
+Network segregation in play? Try Get-NetSubnet, Get-NetSite in PowerView or browse in AD explorer. Can help find your way :)

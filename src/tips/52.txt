@@ -1,0 +1,1 @@
+SC doesnt take credentials. Cant use runas? Try net use 	argetipipc$ password /u:domainusername then sc to psexec

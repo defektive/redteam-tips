@@ -1,0 +1,1 @@
+Stuck in a heavily segregated situation on a server? Try RDPInception attack vector out https://www.mdsec.co.uk/2017/06/rdpinception/

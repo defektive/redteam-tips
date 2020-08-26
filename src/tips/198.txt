@@ -1,0 +1,1 @@
+Failed to phish? Payloads failing? Mac users? Write an email and ask them to open terminal and paste in python Empyre one line

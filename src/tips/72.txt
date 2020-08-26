@@ -1,0 +1,1 @@
+Most people understand email sec wrong. SPF does not mean not spoofable. SPF does nothing without DMARC.

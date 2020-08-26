@@ -1,0 +1,1 @@
+Remove all document information when creating your Macros. You can even edit the file to put in false attribution data.

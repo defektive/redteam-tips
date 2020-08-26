@@ -1,0 +1,1 @@
+When using BloodHound, dont forget DA equivalents such as administrators and server operators etc too. These arent mapped.

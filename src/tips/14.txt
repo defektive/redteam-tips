@@ -1,0 +1,1 @@
+Got extra credentials? Use different sets for separate egress channels so that if one account is disabled all the rest are ok.

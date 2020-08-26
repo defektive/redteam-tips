@@ -1,0 +1,1 @@
+If the enemy SOC is using proxy logs for analysis. Guess what? It wont log cookies or POST body content as can be sensitive.

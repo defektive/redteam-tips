@@ -1,0 +1,1 @@
+@_rastamouse shows you how to manually extract relevant RDP credentials from Cred Vault in his labs! https://rastamouse.me/2017/08/jumping-network-segregation-with-rdp/

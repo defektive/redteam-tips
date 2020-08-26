@@ -1,0 +1,1 @@
+RCE on a web application for less mature client? nslookup -q=srv _ldap._tcpif its domain joined Invoke-Kerberoast

@@ -1,0 +1,1 @@
+Pivoting into a secure zone that has no DNS or web gateway and need exfil? Netsh port forward pivot UDP 53 to DNS 53 then boom

@@ -1,0 +1,1 @@
+When stick phishing for 2FA, consider using @mrgretzky Evilginx project which logs cookies. https://breakdev.org/evilginx-1-1-release/

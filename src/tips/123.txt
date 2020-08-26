@@ -1,0 +1,1 @@
+Read Sean Metcalfa blog http://adsecurity.org/ When AD is used in many environments, it vital to at least know techniques

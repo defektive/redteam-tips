@@ -1,0 +1,1 @@
+Shared local administrator account hashes are great for lateral movement. Find machines based on the same build and attack away

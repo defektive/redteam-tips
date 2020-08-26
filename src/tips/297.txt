@@ -1,0 +1,1 @@
+Defender anti ransomware in use? http://www.securitybydefault.com/2018/01/microsoft-anti-ransomware-bypass-not.html?m=1 shows us how we can use a COM object to bypass the anti-write.

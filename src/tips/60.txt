@@ -1,0 +1,1 @@
+Type query user to see who else is connected to the machine.

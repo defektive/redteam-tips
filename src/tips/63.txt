@@ -1,0 +1,1 @@
+Finally in CyberArk, click policies and see safes but no account? Go to accounts search and search for empty and safes show up

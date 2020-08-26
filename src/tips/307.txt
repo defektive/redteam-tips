@@ -1,0 +1,1 @@
+Domain Admins is not the only privileged group. Account Operators, Backup Operators, DNS Admins and more exist. Read up with @pyrotek3 https://adsecurity.org/?p=3700

@@ -1,0 +1,1 @@
+Run strings on the application binary for potentially other cleartext sensitive strings! (Unicode mode too)

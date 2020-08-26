@@ -1,0 +1,1 @@
+Aquatone is a DNS discovery tool https://github.com/michenriksen/aquatone…. Finds some interesting subdomains that I’ve not seen in some other sources. :D for ex one time it found me a VPN hostname format that I could then simply brute all combinations to discover more.

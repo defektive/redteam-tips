@@ -1,0 +1,1 @@
+Phish creds on target sites. Forums and other areas let you post image links. [img]url/cat.png[/img] for example. Use https://github.com/vysec/basicAuth , set PNG as a PHP execution extension. Embed that PNG and whenever someone visits the page it will prompt for credentials.

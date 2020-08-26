@@ -1,0 +1,1 @@
+Make sure theres trackers in your: emails, delivery server and payload execution. Any more? Comment to share!

@@ -1,0 +1,1 @@
+FireEye sandbox flagging your payloads? Try anti sandbox techniques! If not, just use HTA to get into memory as it doesnt scan

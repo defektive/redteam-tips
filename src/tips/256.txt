@@ -1,0 +1,1 @@
+Wiki, sharepoint, intranet, fileshares often have access control misconfigs. Almost as good as privilege escalation for info.

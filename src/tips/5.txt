@@ -1,0 +1,1 @@
+Do a DNS lookup for terms such as intranet, sharepoint, wiki, nessus, cyberark and many others to start intel on your target.

@@ -1,0 +1,1 @@
+Need to zip up a directory quickly for easy exfiltration? Eg. Home shares https://github.com/thoemmi/7Zip4Powershell use Powershell

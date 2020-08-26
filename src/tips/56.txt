@@ -1,0 +1,1 @@
+Target victims using email authentication such as Microsoft Account on Windows 10? Hash leak exposes full email address!

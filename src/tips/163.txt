@@ -1,0 +1,1 @@
+Didier Stevens has SelectMyParent tool that lets you spawn a child process with an arbitrary parent. https://blog.didierstevens.com/2017/03/20/that-is-not-my-child-process/

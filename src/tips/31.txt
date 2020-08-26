@@ -1,0 +1,1 @@
+Hunting e-mails and network shares for penetration testing reports can often yield good results.

@@ -1,0 +1,1 @@
+Orgs are transitioning to cloud services such as AWS, Beanstalk, O365, Google Apps. 2FA is vital - password reset to compromise.

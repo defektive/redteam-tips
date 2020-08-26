@@ -1,0 +1,1 @@
+If ping 8.8.8.8 works, try ICMP tunnelling. More info at http://www.labofapenetrationtester.com/2015/05/week-of-powershell-shells-day-5.html?m=1 from @fragsh3ll though only on immature network

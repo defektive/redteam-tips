@@ -1,0 +1,1 @@
+Doing many concurrent adversary simulation gigs? Automate the boring target collection process with https://www.mdsec.co.uk/2017/07/reconnaissance-using-linkedint/
