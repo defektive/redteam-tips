@@ -1,11 +1,14 @@
 #! /bin/bash
-if [[ -n "$BASH_VERSION" ]]; then
-  pushd `dirname ${BASH_SOURCE[0]}` > /dev/null
-else
-  pushd `dirname $0` > /dev/null
+
+if which fortune >/dev/null 2>&1 ; then
+  if [[ -n "$BASH_VERSION" ]]; then
+    pushd `dirname ${BASH_SOURCE[0]}` > /dev/null
+  else
+    pushd `dirname $0` > /dev/null
+  fi
+
+  RED_TEAM_TIPS_PATH=`pwd`
+  popd > /dev/null
+
+  fortune "$RED_TEAM_TIPS_PATH"/dist/redteam-tips
 fi
-
-RED_TEAM_TIPS_PATH=`pwd`
-popd > /dev/null
-
-fortune "$RED_TEAM_TIPS_PATH"/dist/redteam-tips
